@@ -1,0 +1,12 @@
+{
+  "name": "sql-for-data-analytics",
+  "version": "1.0.0",
+  "description": "Solutions for the SQL for Data Analytics book",
+  "main": "index.js",
+  "scripts": {
+    "start": "docker compose up -d"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
